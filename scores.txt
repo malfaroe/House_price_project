@@ -1,0 +1,4 @@
+train: (1446, 80) (incluye train y saleprice)
+y_train: (1446,1)
+
+last rmse = 0.072134 con all_data saliendo de house_4
